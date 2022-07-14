@@ -19,7 +19,7 @@ public class GradeConverterTest {
   private GradeConverter converter;
 
   @Before
-  public void setUp() throws Exception {
+  public void setUp()  {
     converter = new GradeConverter();
   }
 
