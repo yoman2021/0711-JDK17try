@@ -1,4 +1,17 @@
+/**Some javadoc.
+ *
+ * @author 107ncyu
+ * @version JDK17
+ *
+ */
 public class App {
+
+  /**Some javadoc.
+   *
+   * @author 107ncyu
+   * @version JDK17
+   *
+   */
   public static void main(String[] args) {
     System.out.println("hello world");
 

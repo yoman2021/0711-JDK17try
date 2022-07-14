@@ -1,8 +1,19 @@
+/**Some javadoc.
+ *
+ * @author 107ncyu
+ * @version JDK17
+ *
+ */
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-
+/**Some javadoc.
+ *
+ * @author 107ncyu
+ * @version JDK17
+ *
+ */
 public class GradeConverterTest {
 
   private GradeConverter converter;
